@@ -4,3 +4,5 @@ geopandas
 jupyterlab
 geojson
 requests
+raster-loader
+google-cloud-bigquery
