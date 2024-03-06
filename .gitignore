@@ -9,3 +9,5 @@ __pycache__/
 
 output_stats_wide_format.csv
 parameters/config_gee.py
+
+env/

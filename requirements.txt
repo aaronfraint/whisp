@@ -1,0 +1,6 @@
+ee
+geemap
+geopandas
+jupyterlab
+geojson
+requests
